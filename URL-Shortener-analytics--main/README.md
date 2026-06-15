@@ -183,6 +183,7 @@ This project is a part of a hackathon run by https://katomaran.com
 
 ## Analytics
 
+
 ![Analytics](screenshots/analytics.png)
 
 
@@ -197,3 +198,17 @@ This project is a part of a hackathon run by https://katomaran.com
 <p align="center">
   <img src="screenshots/dashboard.png" width="800">
 </p>
+
+## Screenshots
+
+### Home Page
+![Home](./screenshots/home.png)
+
+### Login Page
+![Login](./screenshots/login.png)
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### Analytics
+![Analytics](./screenshots/analytics.png)
