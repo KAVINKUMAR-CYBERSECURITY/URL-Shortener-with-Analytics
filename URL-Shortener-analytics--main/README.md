@@ -167,3 +167,33 @@ The app will be available at `http://localhost:5173`.
 ---
 
 This project is a part of a hackathon run by https://katomaran.com
+# Screenshots
+
+## Home Page
+
+![Home Page](screenshots/home.png)
+
+## Login Page
+
+![Login Page](screenshots/login.png)
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+## Analytics
+
+![Analytics](screenshots/analytics.png)
+
+
+
+
+# Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="800">
+</p>
