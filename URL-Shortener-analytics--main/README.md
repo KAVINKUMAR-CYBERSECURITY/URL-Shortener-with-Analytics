@@ -171,7 +171,7 @@ This project is a part of a hackathon run by https://katomaran.com
 
 ## Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/homepage.png)
 
 ## Login Page
 
@@ -192,7 +192,7 @@ This project is a part of a hackathon run by https://katomaran.com
 # Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="800">
+  <img src="screenshots/homepage.png" width="800">
 </p>
 
 <p align="center">
